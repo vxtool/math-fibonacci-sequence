@@ -15,6 +15,9 @@ Ao transformar esses números em quadrados e dispô-los de maneira geométrica, 
 
 ![Espiral fibonacci](source/img/espiral-fibonacci.svg)
 
+Na sequência, ao se dividir qualquer número pelo anterior, teremos a razão que é uma constante conhecida como [número de ouro](https://pt.wikipedia.org/wiki/Propor%C3%A7%C3%A3o_%C3%A1urea).
+
+
 ## A sequência na natureza
 
 - ***Concha do caramujo*** - Cada novo pedacinho tem a dimensão da somados dois antecessores
@@ -24,6 +27,13 @@ Ao transformar esses números em quadrados e dispô-los de maneira geométrica, 
 - ***As pirâmides*** - Mais um mistério: cada bloco é 1,618 vezes maior que o bloco do nível imediatamente acima. Em algumas, as câmaras internas têm comprimento 1,618 vezes maior que sua largura.
 - ***Rosto*** - Dizem que, nas faces consideradas mais harmoniosas, a divisão da distância entre o centro da boca e o "terceiro olho" pela distância entre esse ponto e uma das pupilas bate no 1,618.
 - ***Corpo*** - Se um humano “mediano” dividir sua altura pela distância entre o umbigo e a cabeça, o resultado será algo em torno de 1,618.
+
+
+## Fórmula
+
+```
+F(n) = { 0, 1, F(n-1) + F(n-2) }
+```
 
 
 ## Contribuição
