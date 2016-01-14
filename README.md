@@ -35,6 +35,27 @@ Na sequência, ao se dividir qualquer número pelo anterior, teremos a razão qu
 F(n) = { 0, 1, F(n-1) + F(n-2) }
 ```
 
+## Scripts
+
+- Javascript
+  - [generator]()
+  - [iteration]()
+  - [memoization]()
+  - [recursive]()
+- Python
+  - [generator]()
+  - [iteration]()
+  - [memoization]()
+  - [recursive-with-memoization]()
+  - [recursive]()
+- Ruby
+  - [generator]()
+  - [iteration]()
+  - [memoization]()
+  - [recursive-with-memoization]()
+  - [recursive]()
+
+
 
 ## Contribuição
 
