@@ -38,22 +38,22 @@ F(n) = { 0, 1, F(n-1) + F(n-2) }
 ## Scripts
 
 - Javascript
-  - [generator]()
-  - [iteration]()
-  - [memoization]()
-  - [recursive]()
+  - [generator](javascript/generator.js)
+  - [iteration](javascript/iteration.js)
+  - [memoization](javascript/memoization.js)
+  - [recursive](javascript/recursive.js)
 - Python
-  - [generator]()
-  - [iteration]()
-  - [memoization]()
-  - [recursive-with-memoization]()
-  - [recursive]()
+  - [generator](python/generator.py)
+  - [iteration](python/iteration.py)
+  - [memoization](python/memoization.py)
+  - [recursive-with-memoization](python/recursive-with-memoization.py)
+  - [recursive](python/recursive.py)
 - Ruby
-  - [generator]()
-  - [iteration]()
-  - [memoization]()
-  - [recursive-with-memoization]()
-  - [recursive]()
+  - [generator](ruby/generator.rb)
+  - [iteration](ruby/iteration.rb)
+  - [memoization](ruby/memoization.rb)
+  - [recursive-with-memoization](ruby/recursive-with-memoization.rb)
+  - [recursive](ruby/recursive.rb)
 
 
 
