@@ -4,9 +4,7 @@ def fib(n, cache = {})
   end
   cache[n] ||= fib(n-1, cache) + fib(n-2, cache)
 end
-fib 14
-# => 377
-fib 24
-# => 46368
-fib 124
-# => 36726740705505779255899443
+
+# execute
+result = fib 14
+print result

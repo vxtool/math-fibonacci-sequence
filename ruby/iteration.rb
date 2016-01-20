@@ -3,6 +3,9 @@ def fib(n, sequence=[1])
     current_number, last_number = sequence.last(2)
     sequence << current_number + (last_number or 0)
   end
-
   sequence.last
 end
+
+# execute
+result = fib(4)
+print result

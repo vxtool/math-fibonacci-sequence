@@ -7,3 +7,6 @@ def fib(n, sequence=[1])
   fib(n-1, sequence)
 end
 
+# execute
+result = fib(4)
+print result
