@@ -67,4 +67,4 @@ Veja o [Changelog](CHANGELOG.md) para mais detalhes.
 
 ## Licença
 
-[MIT license](LICENSE.md) © Copyright 2016 [Hemerson Vianna](http://hemersonvianna.io).
+[MIT license](LICENSE.md) © [Hemerson Vianna](http://hemersonvianna.io).
