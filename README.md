@@ -57,14 +57,18 @@ F(n) = { 0, 1, F(n-1) + F(n-2) }
 
 
 
-## Contribuição
+## Contributing
 
-Veja como contribuir no [Contributing](CONTRIBUTING.md).
+- Fork it!
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
 
 ## Log
 
-Veja o [Changelog](CHANGELOG.md) para mais detalhes.
+Check [Releases](https://github.com/math-solutions/math-fibonacci-sequence/releases) for detailed changelog.
 
-## Licença
+## License
 
-[MIT license](LICENSE.md) © [Hemerson Vianna](http://hemersonvianna.io).
+[MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
