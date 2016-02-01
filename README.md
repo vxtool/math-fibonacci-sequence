@@ -1,7 +1,7 @@
 # Sequência de Fibonacci
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/math-solutions/math-fibonacci-sequence/blob/master/LICENSE.md)
-[![issues](https://img.shields.io/github/issues/math-solutions/math-fibonacci-sequence.svg)](https://github.com/math-solutions/math-fibonacci-sequence/issues)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![issues](https://img.shields.io/github/issues/math-solutions/math-fibonacci-sequence.svg?style=flat-square)](https://github.com/math-solutions/math-fibonacci-sequence/issues)
 
 ## Introdução
 
