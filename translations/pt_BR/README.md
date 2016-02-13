@@ -61,7 +61,7 @@ F(n) = { 0, 1, F(n-1) + F(n-2) }
 
 
 
-## Contributing
+## Contribuindo
 
 - Fork it!
 - Create your feature branch: `git checkout -b my-new-feature`
@@ -73,6 +73,6 @@ F(n) = { 0, 1, F(n-1) + F(n-2) }
 
 Check [Releases](https://github.com/math-solutions/math-fibonacci-sequence/releases) for detailed changelog.
 
-## License
+## Licença
 
 [MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna

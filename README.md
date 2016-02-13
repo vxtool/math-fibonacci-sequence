@@ -1,4 +1,4 @@
-# Sequência de Fibonacci
+# Fibonacci sequence
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/math-solutions/math-fibonacci-sequence.svg?style=flat-square)](https://github.com/math-solutions/math-fibonacci-sequence/issues)
@@ -7,7 +7,7 @@
 
 * [Portuguese - Brazil](translations/pt_BR)
 
-## Introdução
+## Introduction
 
 Leonardo Fibonacci, propôs no século XIII, a sequência numérica abaixo:
 
