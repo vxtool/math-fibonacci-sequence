@@ -1,7 +1,7 @@
 # Fibonacci sequence
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/math-solutions/math-fibonacci-sequence.svg?style=flat-square)](https://github.com/math-solutions/math-fibonacci-sequence/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/math-fibonacci-sequence.svg?style=flat-square)](https://github.com/descco-tools/math-fibonacci-sequence/issues)
 
 ## Translations
 
@@ -71,7 +71,7 @@ F(n) = { 0, 1, F(n-1) + F(n-2) }
 
 ## Log
 
-Check [Releases](https://github.com/math-solutions/math-fibonacci-sequence/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/math-fibonacci-sequence/releases) for detailed changelog.
 
 ## License
 
