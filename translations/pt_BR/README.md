@@ -1,11 +1,15 @@
 # Sequência de Fibonacci
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/math-fibonacci-sequence.svg?style=flat-square)](https://github.com/descco-tools/math-fibonacci-sequence/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/math-fibonacci-sequence.svg)](https://github.com/org-victorinox/math-fibonacci-sequence/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/math-fibonacci-sequence.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/math-fibonacci-sequence.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/math-fibonacci-sequence.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/math-fibonacci-sequence/total.svg)
 
 ## Traduções
 
-* [ORIGINAL](https://github.com/descco-tools/math-fibonacci-sequence/)
+* [ORIGINAL](https://github.com/org-victorinox/math-fibonacci-sequence/)
 
 ## Introdução
 
@@ -71,7 +75,7 @@ F(n) = { 0, 1, F(n-1) + F(n-2) }
 
 ## Log
 
-Verifique os [Releases](https://github.com/descco-tools/math-fibonacci-sequence/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/org-victorinox/math-fibonacci-sequence/releases) ver detalhado o log de alterações.
 
 ## Licença
 
